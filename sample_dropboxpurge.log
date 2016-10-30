@@ -1,0 +1,178 @@
+2016-10-29 18:45:04,896 Begin pass...
+2016-10-29 18:45:04,896 MAX_CONTENT_AGE: 700
+2016-10-29 18:45:04,896 DISPLAY_ONLY_MODE: True
+2016-10-29 18:45:04,896 retrieve_member_list (recursive=False
+2016-10-29 18:45:04,897 Request to team/members/list
+2016-10-29 18:45:04,943 Starting new HTTPS connection (1): api.dropboxapi.com
+2016-10-29 18:45:12,314 member list obtained - 1000 members
+2016-10-29 18:45:12,316 retrieving content for dbmid:AABDg47u7a9ZcdN8yfvlMRmHTdUnKUZc9Ms
+2016-10-29 18:45:12,316 Request to files/list_folder
+2016-10-29 18:45:16,307 retrieved content for dbmid:AABDg47u7a9ZcdN8yfvlMRmHTdUnKUZc9Ms
+2016-10-29 18:45:16,307 /from-future-import-python.pdf would not have been deleted
+2016-10-29 18:45:16,307 /data structures and algorithms with python.pdf would not have been deleted
+2016-10-29 18:45:16,307 retrieving content for dbmid:AADNREwWwKwbuAVpQP4bMYnlhAXdkv7XWZA
+2016-10-29 18:45:16,308 Request to files/list_folder
+2016-10-29 18:45:16,519 retrieved content for dbmid:AADNREwWwKwbuAVpQP4bMYnlhAXdkv7XWZA
+2016-10-29 18:45:16,519 /pdrive/tvatestfolder/file4tvatest.txt would not have been deleted
+2016-10-29 18:45:16,519 /pdrive/tvatestfolder/file3tvatest.txt would not have been deleted
+2016-10-29 18:45:16,519 retrieving content for dbmid:AACquiaBbRLOqWfll-fl69Iq4YkEkhwek4c
+2016-10-29 18:45:16,519 Request to files/list_folder
+2016-10-29 18:45:16,830 Request to files/list_folder/continue
+2016-10-29 18:45:17,444 Request to files/list_folder/continue
+2016-10-29 18:45:18,079 Request to files/list_folder/continue
+2016-10-29 18:45:18,289 retrieved content for dbmid:AACquiaBbRLOqWfll-fl69Iq4YkEkhwek4c
+2016-10-29 18:45:18,289 /get started with dropbox.pdf would not have been deleted
+2016-10-29 18:45:18,289 /file_10.file would not have been deleted
+2016-10-29 18:45:18,290 /file_11.file would not have been deleted
+2016-10-29 18:45:18,290 /file_12.file would not have been deleted
+2016-10-29 18:45:18,290 /file_13.file would not have been deleted
+2016-10-29 18:45:18,291 /file_14.file would not have been deleted
+2016-10-29 18:45:18,291 /file_15.file would not have been deleted
+2016-10-29 18:45:18,291 /file_16.file would not have been deleted
+2016-10-29 18:45:18,291 /file_17.file would not have been deleted
+2016-10-29 18:45:18,291 /file_18.file would not have been deleted
+2016-10-29 18:45:18,292 /file_19.file would not have been deleted
+2016-10-29 18:45:18,292 /new root folder/member info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:18,292 /new root folder/member info/get_info_batch.ps1 would not have been deleted
+2016-10-29 18:45:18,292 /new root folder/member info/list.ps1 would not have been deleted
+2016-10-29 18:45:18,292 /new root folder/member info/test-empty-given-name.ps1 would not have been deleted
+2016-10-29 18:45:18,292 /new root folder/member management/add-single.ps1 would not have been deleted
+2016-10-29 18:45:18,293 /new root folder/member management/add.ps1 would not have been deleted
+2016-10-29 18:45:18,293 /new root folder/member management/remove.ps1 would not have been deleted
+2016-10-29 18:45:18,293 /new root folder/member management/set_permissions.ps1 would not have been deleted
+2016-10-29 18:45:18,293 /new root folder/member management/set_profile.ps1 would not have been deleted
+2016-10-29 18:45:18,293 /fromsharefile456/cfp transfer logs/shfile -%3e dbx 76874 - sat may 14 2016 17 54 57 gmt+0000 (utc).csv would not have been deleted
+2016-10-29 18:45:18,302 /test data/empty/keyfile.key would not have been deleted
+2016-10-29 18:45:18,302 /test data/project/readable by everyone.txt would not have been deleted
+2016-10-29 18:45:18,303 /new root folder/team info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:18,303 /fromsharefile123/cfp transfer logs/sharefile -%3e dropbox 76815 - fri may 13 2016 19 32 35 gmt+0000 (utc).csv would not have been deleted
+2016-10-29 18:45:18,303 /new root folder/reports/get_storage.ps1 would not have been deleted
+2016-10-29 18:45:18,303 retrieving content for dbmid:AAAzw0YV3xVJKFtq4T8oc8IILJztAQiuQyw
+2016-10-29 18:45:18,304 Request to files/list_folder
+2016-10-29 18:45:18,819 Request to files/list_folder/continue
+2016-10-29 18:45:19,051 Request to files/list_folder/continue
+2016-10-29 18:45:19,265 Request to files/list_folder/continue
+2016-10-29 18:45:19,503 Request to files/list_folder/continue
+2016-10-29 18:45:20,103 retrieved content for dbmid:AAAzw0YV3xVJKFtq4T8oc8IILJztAQiuQyw
+2016-10-29 18:45:20,103 /get started with dropbox.pdf would not have been deleted
+2016-10-29 18:45:20,104 /new root folder/audit log/get_events.ps1 would not have been deleted
+2016-10-29 18:45:20,104 /new root folder/getting an oauth token for apps/hyatt oauth dropbox for business apps.docx would not have been deleted
+2016-10-29 18:45:20,104 /new root folder/member info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:20,105 /new root folder/member info/get_info_batch.ps1 would not have been deleted
+2016-10-29 18:45:20,105 /new root folder/member info/list.ps1 would not have been deleted
+2016-10-29 18:45:20,105 /new root folder/member info/test-empty-given-name.ps1 would not have been deleted
+2016-10-29 18:45:20,105 /new root folder/group info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:20,106 /new root folder/group info/list.ps1 would not have been deleted
+2016-10-29 18:45:20,106 /new root folder/member management/add-single.ps1 would not have been deleted
+2016-10-29 18:45:20,106 /new root folder/member management/add.ps1 would not have been deleted
+2016-10-29 18:45:20,106 /new root folder/member management/remove.ps1 would not have been deleted
+2016-10-29 18:45:20,107 /new root folder/member management/set_permissions.ps1 would not have been deleted
+2016-10-29 18:45:20,107 /new root folder/member management/set_profile.ps1 would not have been deleted
+2016-10-29 18:45:20,107 /new root folder/team info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:20,107 /new root folder/add dfb members from a csv file/addfromcsv.ps1 would not have been deleted
+2016-10-29 18:45:20,108 /new root folder/c/oauth dropbox for business apps.docx would not have been deleted
+2016-10-29 18:45:20,108 /new root folder/c/program.cs would not have been deleted
+2016-10-29 18:45:20,108 /new root folder/c/programmemberlist.cs would not have been deleted
+2016-10-29 18:45:20,108 /new root folder/group management/create.ps1 would not have been deleted
+2016-10-29 18:45:20,109 /new root folder/group management/create.txt would not have been deleted
+2016-10-29 18:45:20,109 /new root folder/reports/get_storage.ps1 would not have been deleted
+2016-10-29 18:45:20,109 retrieving content for dbmid:AABUG_jtlgknojFY4nUmy-kOtmOe7EG1itI
+2016-10-29 18:45:20,109 Request to files/list_folder
+2016-10-29 18:45:20,511 retrieved content for dbmid:AABUG_jtlgknojFY4nUmy-kOtmOe7EG1itI
+2016-10-29 18:45:20,512 retrieving content for dbmid:AAD8nolWG792pVDhlQZdjO0ygpvuuZz97PY
+2016-10-29 18:45:20,512 Request to files/list_folder
+2016-10-29 18:45:20,728 retrieved content for dbmid:AAD8nolWG792pVDhlQZdjO0ygpvuuZz97PY
+2016-10-29 18:45:20,729 retrieving content for dbmid:AAAPfX5v6HuIwfRYhFsEY9XkuUrU4QI8PB4
+2016-10-29 18:45:20,729 Request to files/list_folder
+2016-10-29 18:45:21,536 Request to files/list_folder/continue
+2016-10-29 18:45:21,727 retrieved content for dbmid:AAAPfX5v6HuIwfRYhFsEY9XkuUrU4QI8PB4
+2016-10-29 18:45:21,727 /get started with dropbox.pdf would not have been deleted
+2016-10-29 18:45:43,296 Begin pass...
+2016-10-29 18:45:43,296 MAX_CONTENT_AGE: 700
+2016-10-29 18:45:43,297 DISPLAY_ONLY_MODE: True
+2016-10-29 18:45:43,297 retrieve_member_list (recursive=False
+2016-10-29 18:45:43,297 Request to team/members/list
+2016-10-29 18:45:43,313 Starting new HTTPS connection (1): api.dropboxapi.com
+2016-10-29 18:45:49,155 member list obtained - 1000 members
+2016-10-29 18:45:49,156 retrieving content for dbmid:AABDg47u7a9ZcdN8yfvlMRmHTdUnKUZc9Ms
+2016-10-29 18:45:49,156 Request to files/list_folder
+2016-10-29 18:45:53,922 retrieved content for dbmid:AABDg47u7a9ZcdN8yfvlMRmHTdUnKUZc9Ms
+2016-10-29 18:45:53,923 /from-future-import-python.pdf would not have been deleted
+2016-10-29 18:45:53,923 /data structures and algorithms with python.pdf would not have been deleted
+2016-10-29 18:45:53,924 retrieving content for dbmid:AADNREwWwKwbuAVpQP4bMYnlhAXdkv7XWZA
+2016-10-29 18:45:53,924 Request to files/list_folder
+2016-10-29 18:45:54,133 retrieved content for dbmid:AADNREwWwKwbuAVpQP4bMYnlhAXdkv7XWZA
+2016-10-29 18:45:54,133 /pdrive/tvatestfolder/file4tvatest.txt would not have been deleted
+2016-10-29 18:45:54,133 /pdrive/tvatestfolder/file3tvatest.txt would not have been deleted
+2016-10-29 18:45:54,133 retrieving content for dbmid:AACquiaBbRLOqWfll-fl69Iq4YkEkhwek4c
+2016-10-29 18:45:54,134 Request to files/list_folder
+2016-10-29 18:45:54,523 Request to files/list_folder/continue
+2016-10-29 18:45:54,921 Request to files/list_folder/continue
+2016-10-29 18:45:55,170 Request to files/list_folder/continue
+2016-10-29 18:45:55,758 retrieved content for dbmid:AACquiaBbRLOqWfll-fl69Iq4YkEkhwek4c
+2016-10-29 18:45:55,758 /get started with dropbox.pdf would not have been deleted
+2016-10-29 18:45:55,759 /file_10.file would not have been deleted
+2016-10-29 18:45:55,759 /file_11.file would not have been deleted
+2016-10-29 18:45:55,759 /file_12.file would not have been deleted
+2016-10-29 18:45:55,759 /file_13.file would not have been deleted
+2016-10-29 18:45:55,759 /file_14.file would not have been deleted
+2016-10-29 18:45:55,759 /file_15.file would not have been deleted
+2016-10-29 18:45:55,759 /file_16.file would not have been deleted
+2016-10-29 18:45:55,759 /file_17.file would not have been deleted
+2016-10-29 18:45:55,759 /file_18.file would not have been deleted
+2016-10-29 18:45:55,759 /file_19.file would not have been deleted
+2016-10-29 18:45:55,759 /new root folder/member info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:55,759 /new root folder/member info/get_info_batch.ps1 would not have been deleted
+2016-10-29 18:45:55,760 /new root folder/member info/list.ps1 would not have been deleted
+2016-10-29 18:45:55,760 /new root folder/member info/test-empty-given-name.ps1 would not have been deleted
+2016-10-29 18:45:55,760 /fromsharefile123/cfp transfer logs/sharefile -%3e dropbox 76815 - fri may 13 2016 19 32 35 gmt+0000 (utc).csv would not have been deleted
+2016-10-29 18:45:55,760 /test data/empty/keyfile.key would not have been deleted
+2016-10-29 18:45:55,760 /test data/project/readable by everyone.txt would not have been deleted
+2016-10-29 18:45:55,760 /new root folder/reports/get_storage.ps1 would not have been deleted
+2016-10-29 18:45:55,760 /new root folder/team info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:55,760 /fromsharefile456/cfp transfer logs/shfile -%3e dbx 76874 - sat may 14 2016 17 54 57 gmt+0000 (utc).csv would not have been deleted
+2016-10-29 18:45:55,760 /new root folder/member management/add-single.ps1 would not have been deleted
+2016-10-29 18:45:55,760 /new root folder/member management/add.ps1 would not have been deleted
+2016-10-29 18:45:55,760 /new root folder/member management/remove.ps1 would not have been deleted
+2016-10-29 18:45:55,760 /new root folder/member management/set_permissions.ps1 would not have been deleted
+2016-10-29 18:45:55,761 /new root folder/member management/set_profile.ps1 would not have been deleted
+2016-10-29 18:45:55,761 retrieving content for dbmid:AAAzw0YV3xVJKFtq4T8oc8IILJztAQiuQyw
+2016-10-29 18:45:55,761 Request to files/list_folder
+2016-10-29 18:45:56,029 Request to files/list_folder/continue
+2016-10-29 18:45:56,272 Request to files/list_folder/continue
+2016-10-29 18:45:56,506 Request to files/list_folder/continue
+2016-10-29 18:45:56,716 Request to files/list_folder/continue
+2016-10-29 18:45:56,911 retrieved content for dbmid:AAAzw0YV3xVJKFtq4T8oc8IILJztAQiuQyw
+2016-10-29 18:45:56,912 /get started with dropbox.pdf would not have been deleted
+2016-10-29 18:45:56,912 /new root folder/add dfb members from a csv file/addfromcsv.ps1 would not have been deleted
+2016-10-29 18:45:56,912 /new root folder/group info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:56,912 /new root folder/group info/list.ps1 would not have been deleted
+2016-10-29 18:45:56,912 /new root folder/member management/add-single.ps1 would not have been deleted
+2016-10-29 18:45:56,912 /new root folder/member management/add.ps1 would not have been deleted
+2016-10-29 18:45:56,913 /new root folder/member management/remove.ps1 would not have been deleted
+2016-10-29 18:45:56,913 /new root folder/member management/set_permissions.ps1 would not have been deleted
+2016-10-29 18:45:56,913 /new root folder/member management/set_profile.ps1 would not have been deleted
+2016-10-29 18:45:56,913 /new root folder/audit log/get_events.ps1 would not have been deleted
+2016-10-29 18:45:56,913 /new root folder/getting an oauth token for apps/hyatt oauth dropbox for business apps.docx would not have been deleted
+2016-10-29 18:45:56,913 /new root folder/group management/create.ps1 would not have been deleted
+2016-10-29 18:45:56,913 /new root folder/group management/create.txt would not have been deleted
+2016-10-29 18:45:56,913 /new root folder/c/oauth dropbox for business apps.docx would not have been deleted
+2016-10-29 18:45:56,914 /new root folder/c/program.cs would not have been deleted
+2016-10-29 18:45:56,914 /new root folder/c/programmemberlist.cs would not have been deleted
+2016-10-29 18:45:56,914 /new root folder/member info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:56,914 /new root folder/member info/get_info_batch.ps1 would not have been deleted
+2016-10-29 18:45:56,914 /new root folder/member info/list.ps1 would not have been deleted
+2016-10-29 18:45:56,914 /new root folder/member info/test-empty-given-name.ps1 would not have been deleted
+2016-10-29 18:45:56,914 /new root folder/team info/get_info.ps1 would not have been deleted
+2016-10-29 18:45:56,915 /new root folder/reports/get_storage.ps1 would not have been deleted
+2016-10-29 18:45:56,915 retrieving content for dbmid:AABUG_jtlgknojFY4nUmy-kOtmOe7EG1itI
+2016-10-29 18:45:56,915 Request to files/list_folder
+2016-10-29 18:45:57,340 retrieved content for dbmid:AABUG_jtlgknojFY4nUmy-kOtmOe7EG1itI
+2016-10-29 18:45:57,341 retrieving content for dbmid:AAD8nolWG792pVDhlQZdjO0ygpvuuZz97PY
+2016-10-29 18:45:57,341 Request to files/list_folder
+2016-10-29 18:45:57,553 retrieved content for dbmid:AAD8nolWG792pVDhlQZdjO0ygpvuuZz97PY
+2016-10-29 18:45:57,553 retrieving content for dbmid:AAAPfX5v6HuIwfRYhFsEY9XkuUrU4QI8PB4
+2016-10-29 18:45:57,553 Request to files/list_folder
+2016-10-29 18:45:57,765 Request to files/list_folder/continue
+2016-10-29 18:45:57,911 retrieved content for dbmid:AAAPfX5v6HuIwfRYhFsEY9XkuUrU4QI8PB4
+2016-10-29 18:45:57,912 /get started with dropbox.pdf would not have been deleted
