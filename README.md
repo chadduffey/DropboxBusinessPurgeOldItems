@@ -5,6 +5,9 @@ By default the script will only report on old items (shown in red), not delete.
 By default the script will tell you about things that havnt been touched in 700 days
 Both behaviours can be modified at the top of the script.
 
+# Usage
+python3 dropboxpurge.py
+
 # Requirements
 1. Only tested on OSX
 2. Python3
