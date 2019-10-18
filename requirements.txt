@@ -1,5 +1,5 @@
 dropbox==7.1.1
-requests==2.11.1
+requests==2.20.0
 six==1.10.0
 termcolor==1.1.0
 typing==3.5.2.2
